@@ -2,8 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/post-with-code/index.html",
       "/posts/jordy-frahm-putting-nebraska-on-the-map/index.html",
+      "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
     ]
   }
